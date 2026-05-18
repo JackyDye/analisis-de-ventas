@@ -12,7 +12,7 @@ Análisis exploratorio de datos (EDA) sobre el dataset público de e-commerce br
 ## Estructura del repositorio
 
 ```
-olist-eda/
+analisis-de-ventas/
 │
 ├── notebooks/
 │   └── 01_eda.ipynb              # EDA completo con análisis y visualizaciones
