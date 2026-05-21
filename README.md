@@ -98,7 +98,7 @@ poetry install
 
 3. Activar el entorno virtual:
 ```bash
-poetry shell
+Invoke-Expression (poetry env activate)
 ```
 
 4. Colocar el archivo `kaggle.json` en la raíz del proyecto.
