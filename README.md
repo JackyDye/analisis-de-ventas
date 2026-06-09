@@ -123,4 +123,4 @@ Dataset original: [Brazilian E-Commerce Public Dataset by Olist](https://www.kag
 ## 👤 Autor
 
 **JackyDye**  
-[GitHub](https://github.com/JackyDye)
+[GitHub](https://github.com/JackyDye) · [LinkedIn](https://www.linkedin.com/in/augusto-valles/)
